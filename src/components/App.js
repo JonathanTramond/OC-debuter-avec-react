@@ -1,6 +1,7 @@
 import Banner from './Banner'
 import Cart from './Cart'
 import ShoppingList from './ShoppingList'
+import Footer from './Footer'
 
 function handleSubmit(e) {
   e.preventDefault()
@@ -11,11 +12,10 @@ function handleSubmit(e) {
 function App() {
     return (
       <div>
-        <Banner /><Cart /><ShoppingList />
-            <form onSubmit={handleSubmit} >
-            <input type='text' name='my_input' placeholder='Tapez votre texte' />
-            <button type='submit'>Entrer</button>
-            </form>
+        <Banner />
+        <Cart />
+        <ShoppingList />
+        <Footer />
       </div>
       )
 }

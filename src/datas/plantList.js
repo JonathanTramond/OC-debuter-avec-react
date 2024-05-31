@@ -1,7 +1,10 @@
+import monstera from '../assets/monstera.jpg'
+
 export const plantList = [
 	{
 		name: 'monstera',
 		category: 'classique',
+		cover: {monstera},
 		id: '1ed',
 		isBestSale: true,
 		light: 2,

@@ -1,5 +1,6 @@
 import '../styles/Banner.css'
 import logo from '../assets/logo.png'
+import Recommendation from './Recommendation'
 
 function Banner() {
     const title = 'La maison jungle'
@@ -8,6 +9,7 @@ function Banner() {
         <img src={logo} alt='Logo de la Maison Jungle' className='lmj-logo' />
         <h1 className='lmj-title'>{title}</h1>
     </div>
+
     )
 }
 

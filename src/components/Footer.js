@@ -11,10 +11,14 @@ function Footer() {
     }
 
     function handleBlur(e) {
-        if (!inputValue.includes('@')) {
-            alert('Votre adresse mail doit contenir un @')
+        if (!emailIsValid(inputValue)) {
+            alert('Votre adresse email n\'est pas valide')
         }
     }
+
+    function emailIsValid (email) {
+        return /^[^\s@]+@[^\s@]+\.[^\s@]+$/.test(email)
+      }
 
 	return (
 		<footer className='lmj-footer'>

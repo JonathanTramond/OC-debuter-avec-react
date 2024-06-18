@@ -17,6 +17,9 @@ function handleClick(careType, scaleValue) {
         case 3: 
             value = 'beaucoup'; 
             break ;
+        default :
+            value = 'modérement' ;
+            break;
     }
     
     alert(`Cette plante requiert ${value} ${scaleType}`)
@@ -28,7 +31,7 @@ function CareScale({ scaleValue, careType }) {
 
     return (
         <div onClick={() => handleClick(careType, scaleValue)}>
-            {range.map((rangeElem) => scaleValue >= rangeElem ? <span key={rangeElem.toString()}>{scaleType}</span> : null
+            {range.map((a) => scaleValue >= a ? <span key={a.toString()}>{scaleType}</span> : null
             )}
         </div>
     )

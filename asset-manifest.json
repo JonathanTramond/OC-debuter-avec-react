@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/la-maison-jungle/static/css/main.5004dbe9.chunk.css",
+    "main.js": "/la-maison-jungle/static/js/main.012573be.chunk.js",
+    "main.js.map": "/la-maison-jungle/static/js/main.012573be.chunk.js.map",
+    "runtime-main.js": "/la-maison-jungle/static/js/runtime-main.e69e48b8.js",
+    "runtime-main.js.map": "/la-maison-jungle/static/js/runtime-main.e69e48b8.js.map",
+    "static/js/2.6ff51c8f.chunk.js": "/la-maison-jungle/static/js/2.6ff51c8f.chunk.js",
+    "static/js/2.6ff51c8f.chunk.js.map": "/la-maison-jungle/static/js/2.6ff51c8f.chunk.js.map",
+    "index.html": "/la-maison-jungle/index.html",
+    "static/css/main.5004dbe9.chunk.css.map": "/la-maison-jungle/static/css/main.5004dbe9.chunk.css.map",
+    "static/js/2.6ff51c8f.chunk.js.LICENSE.txt": "/la-maison-jungle/static/js/2.6ff51c8f.chunk.js.LICENSE.txt",
+    "static/media/basil.be00474e.jpg": "/la-maison-jungle/static/media/basil.be00474e.jpg",
+    "static/media/cactus.a71c2062.jpg": "/la-maison-jungle/static/media/cactus.a71c2062.jpg",
+    "static/media/calathea.455c33e2.jpg": "/la-maison-jungle/static/media/calathea.455c33e2.jpg",
+    "static/media/lyrata.2e915120.jpg": "/la-maison-jungle/static/media/lyrata.2e915120.jpg",
+    "static/media/mint.b83a3d2e.jpg": "/la-maison-jungle/static/media/mint.b83a3d2e.jpg",
+    "static/media/monstera.6257bc6b.jpg": "/la-maison-jungle/static/media/monstera.6257bc6b.jpg",
+    "static/media/olivier.b2908b40.jpg": "/la-maison-jungle/static/media/olivier.b2908b40.jpg",
+    "static/media/pothos.d72dc0ac.jpg": "/la-maison-jungle/static/media/pothos.d72dc0ac.jpg",
+    "static/media/succulent.f4329849.jpg": "/la-maison-jungle/static/media/succulent.f4329849.jpg",
+    "static/media/sun.0922d813.svg": "/la-maison-jungle/static/media/sun.0922d813.svg",
+    "static/media/water.b7abd805.svg": "/la-maison-jungle/static/media/water.b7abd805.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e69e48b8.js",
+    "static/js/2.6ff51c8f.chunk.js",
+    "static/css/main.5004dbe9.chunk.css",
+    "static/js/main.012573be.chunk.js"
+  ]
+}
